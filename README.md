@@ -34,7 +34,7 @@ Welcome to my digital lair! I'm a **Full Stack Software Engineer** with a knack 
 - MERN stack development, DevOps workflows, or debugging nightmares with a side of humor.  
 
 📫 **How to reach me**:  
-- **Email**: [muh.ibrahim240102@gmail.com]    
+- **Email**: [muh.ibrahim240102@gmail.com](mailto:muh.ibrahim240102@gmail.com)    
 - **LinkedIn**: [M. Ibrahim](http://www.linkedin.com/in/m-ibrahim2412)  
 
 😄 **Pronouns**: He/Him/CodeNinja  
